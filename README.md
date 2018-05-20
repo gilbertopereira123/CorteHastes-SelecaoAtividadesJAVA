@@ -1,9 +1,6 @@
-# AV2_Analise_de_Algoritmos
+﻿# AV2_Analise_de_Algoritmos
 Equipe :
-  Yuri Alencar,
-  Paulo Victor,
-  Renato Brilhante,
-  Filipe Silva
+  João Paulo França, Abner Assef, Gilberto Pereira. 
 
 O trabalho consiste na leitura de um arquivo .txt e executar um algoritimo escolhido.
 
